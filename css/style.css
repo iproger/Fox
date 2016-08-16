@@ -1,0 +1,16 @@
+html, body, .wrap {
+  height: 100%;
+  width: 100%;
+	margin: 0px;
+	padding: 0px;
+  overflow: hidden;
+  background: #73C8A9;
+  background: linear-gradient(to left, #73C8A9 , #373B44);
+}
+#vvolf {
+  height: 150px;
+  width: 150px;
+}
+.gon {
+  opacity: 0;
+}
