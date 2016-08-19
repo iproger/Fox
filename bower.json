@@ -1,0 +1,22 @@
+{
+  "name": "Fox",
+  "homepage": "https://github.com/lebedeva-kait/Fox",
+  "authors": [
+    "Kate Lebedeva <>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "pagePiling.js": "pagepiling.js#^1.5.3",
+    "jquery": "^3.1.0"
+  }
+}
